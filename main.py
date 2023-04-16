@@ -1,1 +1,1 @@
-print("Hola que tal")
+print("Hey yo wassup")
